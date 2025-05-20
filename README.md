@@ -58,6 +58,8 @@ sourceSets {
 
 Find the latest release version [here](https://github.com/hi-manshu/Charty/releases)
 
+Detailed documentation covering the available chart composables and their configuration options can be found in [docs/README.md](docs/README.md).
+
 ### You can find videos  iOS and Android [here](img/video)
 
 ### Photos / Screenshots
